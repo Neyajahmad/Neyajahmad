@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **neyajahmad6585@gmail.com** for Collaboration, Projects, o
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neyajahmad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neyajahmad) 
 
 
 # 💻 Tech Stack:
