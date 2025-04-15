@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Neyaj Ahmad  
-**A passionate Full-Stack Developer | Android Enthusiast | DSA **
+**A passionate Full-Stack Developer | Android Enthusiast | DSA**
 
 Email Me 👉 ✉️ **neyajahmad6585@gmail.com** for Collaboration, Projects, or Just to Say Hi! 😊
 
 - ⚙️ **I have experience in building:** web and Android applications.
-- 🌱 **I’m currently learning:** MERN Stack, React Hooks, and Advanced Kotlin for Android.
+- 💻 **Skilled in**Java, Kotlin, JavaScript, React, NextJs, NodeJs, MySQL and MonoDG.
 - 👯 **I’m looking to collaborate on:** Full-stack web apps, Android utilities, and open-source projects.
-- 🤔 **I’m looking for help with:** Optimizing performance in large-scale React applications and SQLite-based analytics.  
+- 🛠️ **Strong foundation in** Data Structures & Algorithms  
 - 💬 **Ask me about:** Java, DSA, React, Android (Kotlin), NodeJs, MYSQL, MongoDB. 
 
  
@@ -32,5 +32,7 @@ Email Me 👉 ✉️ **neyajahmad6585@gmail.com** for Collaboration, Projects, o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Neyajahmad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
